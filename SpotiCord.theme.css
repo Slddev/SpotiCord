@@ -7,6 +7,7 @@
  * @source https://github.com/Slddev/ModernX-Theme
 */
 
+@import url("https://slddev.github.io/SpotiCord/src/boot.css")
 @import url("https://crearts-community.github.io/Friends-Grid/clients/betterdiscord.css");
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 
@@ -46,58 +47,4 @@
   --rs-phone-color: var(--rs-online-color); /* Colour of the ring and phone icon when a user is on their phone |  */
 
   --rs-phone-visible: none; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
-}
-
-/*SpotiCord*/
-
-
-.theme-dark {
-  --text-normal: #f4f4f4;
-  --background-primary: #121212;
-  --background-secondary: #000000;
-  --background-secondary-alt: #181818;
-  --background-tertiary: #181818;
-  --background-floating: #282828;
-  --background-accent: #1db954;
-  --channeltextarea-background: #313131;
-  --deprecated-quickswitcher-input-background: #313131;
-}
-
-/*Ditch Light Theme*/
-.theme-light {
-  --header-primary: #fff;
-  --header-secondary: #f4f4f4;
-  --text-normal: #f4f4f4;
-  --background-primary: #121212;
-  --background-secondary: #000000;
-  --background-secondary-alt: #181818;
-  --background-tertiary: #181818;
-  --background-floating: #282828;
-  --background-accent: #1db954;
-  --channeltextarea-background: #313131;
-  --deprecated-quickswitcher-input-background: #313131;
-}
-
-.theme-light .root-g14mjS, .theme-light .footer-31IekZ, .theme-dark .pageWrapper-2PwDoS{
-  background: #121212;
-}
-
-.theme-dark .root-g14mjS {
-  background-color: var(--background-floating);
-}
-
-.peopleColumn-1wMU14 {
-  background-color: var(--background-tertiary);
-}
-
-.bd-switch input:checked+.bd-switch-body {
-  --switch-color: var(--background-accent);
-}
-
-.button-y6hemj[disabled]>.innerButton-1aF_E_>.buttonChild-33lB5F, .buttonChild-33lB5F {
-  color: var(--interactive-normal);
-}
-
-.theme-dark .button-y6hemj:focus-within .activeButtonChild-2hgLAO, .theme-dark .button-y6hemj:focus .activeButtonChild-2hgLAO, .theme-dark .button-y6hemj:hover .activeButtonChild-2hgLAO {
-  color: var(--background-accent);
 }
