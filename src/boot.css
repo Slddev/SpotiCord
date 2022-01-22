@@ -2,10 +2,6 @@
   --theme-version: 0.1.0a;
 }
 
-:root {
-    --theme-version: "22.1.14b ";
-}
-
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
     content: "v"var(--theme-version);
 }
