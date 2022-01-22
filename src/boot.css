@@ -1,3 +1,9 @@
+
+/*Imports*/
+
+@import url("https://slddev.github.io/SpotiCord/src/main.css");
+@import url("https://slddev.github.io/SpotiCord/src/fixes.css");
+
 :root {
   --theme-version: 0.1.0a;
 }
@@ -29,7 +35,3 @@
     font-size: 14px;
 }
 
-/*Imports*/
-
-@import url("https://slddev.github.io/SpotiCord/src/main.css");
-@import url("https://slddev.github.io/SpotiCord/src/fixes.css");
