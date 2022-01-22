@@ -1,13 +1,13 @@
 :root {
-  --theme-version: 0.1.0a
+  --theme-version: 0.1.0a;
 }
 
 :root {
-    --theme-version: "22.1.14b "
+    --theme-version: "22.1.14b ";
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
-    content: "v"var(--theme-version)
+    content: "v"var(--theme-version);
 }
 
 .metadata>.version span {
@@ -22,18 +22,18 @@
     content: "SpotiCord - "var(--theme-version);
     top: 16px;
     color: var(--text-muted);
-    position: relative
+    position: relative;
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version {
-    font-size: 0
+    font-size: 0;
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
-    font-size: 14px
+    font-size: 14px;
 }
 
 /*Imports*/
 
-@import url("https://slddev.github.io/SpotiCord/src/main.css")
-@import url("https://slddev.github.io/SpotiCord/src/fixes.css")
+@import url("https://slddev.github.io/SpotiCord/src/main.css");
+@import url("https://slddev.github.io/SpotiCord/src/fixes.css");
