@@ -1,9 +1,9 @@
-
 /*Imports*/
 
 @import url("https://slddev.github.io/SpotiCord/src/main.css");
 @import url("https://slddev.github.io/SpotiCord/src/fixes.css");
 
+/*Version System*/
 :root {
   --theme-version: "0.1.0a ";
 }
