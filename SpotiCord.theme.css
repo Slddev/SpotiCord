@@ -1,0 +1,103 @@
+/**
+ * @name SpotiCord
+ * @author Sappy#8123
+ * @authorId 741262207391629343
+ * @version AutoUpdating
+ * @description Light-weight Spotify theme for Discord
+ * @source https://github.com/Slddev/ModernX-Theme
+*/
+
+@import url("https://crearts-community.github.io/Friends-Grid/clients/betterdiscord.css");
+@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
+
+:root {
+    /*My Account Button*/
+    --username-button-width: 128px; /* Adjust the with of the username button to match your discord username lenght */
+    --username-button-padding: 6px; /* Padding for the username button */
+    --username-button-right-margin: 12px; /* Width between the username button and the window controls */
+
+    /*Server List*/
+    --server-icon-size: 32px;  /* Size of the server icons */
+    --server-outer-margin: 14px;  /* Spacing between the edge of the container and the server icons.*/
+    --server-spacing: 10px;  /* Spacing between each server icon*/
+
+    /*Server Info Bar*/
+    --app-info-bar-height: 48px; /* Height for container that holds the server name, info, actions and search */
+}
+
+/*RadialStatus*/
+:root {
+  --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
+  --rs-medium-spacing: 3px; /* Gap between avatar and status for User popout | MUST end in px */
+  --rs-large-spacing: 4px; /* Gap between avatar and status for User profiles | MUST end in px */
+
+  --rs-small-width: 2px; /* Thickness of status border for members list/dms | MUST end in px */
+  --rs-medium-width: 3px; /* Thickness of status border for User popout | MUST end in px */
+  --rs-large-width: 4px; /* Thickness of status border for User profile | MUST end in px */
+
+  --rs-avatar-shape: 50%; /* 50% for round - 0% for square */
+
+  --rs-online-color: #43b581; /* Colour for online status */
+  --rs-idle-color: #faa61a; /* Colour for idle status */
+  --rs-dnd-color: #f04747; /* Colour for dnd status */
+  --rs-offline-color: #636b75; /* Colour for offline status */
+  --rs-streaming-color: #643da7; /* Colour for streaming status */
+  --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
+  --rs-phone-color: var(--rs-online-color); /* Colour of the ring and phone icon when a user is on their phone |  */
+
+  --rs-phone-visible: none; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
+}
+
+/*SpotiCord*/
+
+
+.theme-dark {
+  --text-normal: #f4f4f4;
+  --background-primary: #121212;
+  --background-secondary: #000000;
+  --background-secondary-alt: #181818;
+  --background-tertiary: #181818;
+  --background-floating: #282828;
+  --background-accent: #1db954;
+  --channeltextarea-background: #313131;
+  --deprecated-quickswitcher-input-background: #313131;
+}
+
+/*Ditch Light Theme*/
+.theme-light {
+  --header-primary: #fff;
+  --header-secondary: #f4f4f4;
+  --text-normal: #f4f4f4;
+  --background-primary: #121212;
+  --background-secondary: #000000;
+  --background-secondary-alt: #181818;
+  --background-tertiary: #181818;
+  --background-floating: #282828;
+  --background-accent: #1db954;
+  --channeltextarea-background: #313131;
+  --deprecated-quickswitcher-input-background: #313131;
+}
+
+.theme-light .root-g14mjS, .theme-light .footer-31IekZ, .theme-dark .pageWrapper-2PwDoS{
+  background: #121212;
+}
+
+.theme-dark .root-g14mjS {
+  background-color: var(--background-floating);
+}
+
+.peopleColumn-1wMU14 {
+  background-color: var(--background-tertiary);
+}
+
+.bd-switch input:checked+.bd-switch-body {
+  --switch-color: var(--background-accent);
+}
+
+.button-y6hemj[disabled]>.innerButton-1aF_E_>.buttonChild-33lB5F, .buttonChild-33lB5F {
+  color: var(--interactive-normal);
+}
+
+.theme-dark .button-y6hemj:focus-within .activeButtonChild-2hgLAO, .theme-dark .button-y6hemj:focus .activeButtonChild-2hgLAO, .theme-dark .button-y6hemj:hover .activeButtonChild-2hgLAO {
+  color: var(--background-accent);
+}
