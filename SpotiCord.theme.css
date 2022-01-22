@@ -4,27 +4,12 @@
  * @authorId 741262207391629343
  * @version AutoUpdating
  * @description Light-weight Spotify theme for Discord
- * @source https://github.com/Slddev/ModernX-Theme
+ * @source https://github.com/Slddev/SpotiCord
 */
 
 @import url("https://slddev.github.io/SpotiCord/src/boot.css")
 @import url("https://crearts-community.github.io/Friends-Grid/clients/betterdiscord.css");
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
-
-:root {
-    /*My Account Button*/
-    --username-button-width: 128px; /* Adjust the with of the username button to match your discord username lenght */
-    --username-button-padding: 6px; /* Padding for the username button */
-    --username-button-right-margin: 12px; /* Width between the username button and the window controls */
-
-    /*Server List*/
-    --server-icon-size: 32px;  /* Size of the server icons */
-    --server-outer-margin: 14px;  /* Spacing between the edge of the container and the server icons.*/
-    --server-spacing: 10px;  /* Spacing between each server icon*/
-
-    /*Server Info Bar*/
-    --app-info-bar-height: 48px; /* Height for container that holds the server name, info, actions and search */
-}
 
 /*RadialStatus*/
 :root {
