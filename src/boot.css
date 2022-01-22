@@ -5,7 +5,7 @@
 @import url("https://slddev.github.io/SpotiCord/src/fixes.css");
 
 :root {
-  --theme-version: 0.1.0a;
+  --theme-version: "0.1.0a ";
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
