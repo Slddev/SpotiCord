@@ -1,11 +1,11 @@
 .theme-dark {
   --text-normal: #f4f4f4;
   --background-primary: #121212;
-  --background-secondary: #000000;
-  --background-secondary-alt: #181818;
-  --background-tertiary: #181818;
+  --background-secondary: #181818;
+  --background-secondary-alt: #282828;
+  --background-tertiary: #000;
   --background-floating: #282828;
-  --background-accent: #1db954;
+  --background-accent: #1ed760;
   --channeltextarea-background: #313131;
   --deprecated-quickswitcher-input-background: #313131;
 }
@@ -16,11 +16,11 @@
   --header-secondary: #f4f4f4;
   --text-normal: #f4f4f4;
   --background-primary: #121212;
-  --background-secondary: #000000;
-  --background-secondary-alt: #181818;
-  --background-tertiary: #181818;
+  --background-secondary: #181818;
+  --background-secondary-alt: #282828;
+  --background-tertiary: #000;
   --background-floating: #282828;
-  --background-accent: #1db954;
+  --background-accent: #1ed760;
   --channeltextarea-background: #313131;
   --deprecated-quickswitcher-input-background: #313131;
 }
