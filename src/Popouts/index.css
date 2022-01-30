@@ -1,0 +1,71 @@
+/*Modern User Popouts by JJ#0001*/
+.userPopout-2j1gM4 {
+    width: 400px !important;
+}
+
+.headerText-1-WmDq {
+    margin-left: 160px !important;
+}
+
+.avatar-2Vndt_.wrapper-1VLyxH {
+    width: 128px !important;
+    height: 128px !important;
+}
+
+.avatarHint-k7pYop,
+.pencilContainer-18TrEJ,
+.textarea-_59yqs,
+.aboutMeTitle-3pjiS7,
+.bodyTitle-2Az3VQ,
+.premiumIconWrapper-32h0Ri,
+.footer-3naVBw {
+    display: none;
+}
+
+.banner-1YaD3N {
+    width: auto;
+}
+
+.headerTop-3GPUSF {
+    padding-top: 48px;
+    padding-bottom: 24px;
+}
+
+.customStatus-3XAoF9 {
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+
+.customStatusEmoji-1bFQdD {
+    width: 128px !important;
+    height: 128px !important;
+    margin-left: 119px !important;
+    margin-bottom: 5px !important;
+    float: none !important;
+}
+
+.customStatusText-3wj79x {
+    display: block;
+    text-align: center;
+}
+
+.body-2wLx-E {
+    padding-bottom: 8px;
+}
+
+.rolesList-3uZoaa {
+    margin-bottom: 2px;
+}
+
+/*Colors*/
+.lookFilled-yCfaCM.colorBrand-I6CyqQ {
+    background-color: var(--background-accent);
+}
+
+.lookFilled-yCfaCM.colorBrand-I6CyqQ:hover {
+    background-color: var(--background-accent);
+}
+
+.theme-dark .footer-31IekZ {
+    background-color: var(--background-secondary);
+}

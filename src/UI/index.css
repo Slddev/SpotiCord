@@ -1,0 +1,63 @@
+/*User Info*/
+.panels-3wFtMD {
+    background-color: rgba(0, 0, 0, .7);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+/*Text Area*/
+.button-y6hemj[disabled]>.innerButton-1aF_E_>.buttonChild-33lB5F,
+.buttonChild-33lB5F {
+    color: var(--interactive-normal);
+}
+
+.theme-dark .button-y6hemj:focus-within .activeButtonChild-2hgLAO,
+.theme-dark .button-y6hemj:focus .activeButtonChild-2hgLAO,
+.theme-dark .button-y6hemj:hover .activeButtonChild-2hgLAO {
+    color: var(--background-accent);
+}
+
+/*Search*/
+.theme-dark .container-2McqkF {
+    background-color: var(--background-floating);
+}
+
+.option-2KkUJO {
+    width: 311.5px;
+}
+
+.option-2KkUJO:hover {
+    width: 280px;
+}
+
+/*Create A Server and Public Servers*/
+.theme-light .root-g14mjS,
+.theme-light .footer-31IekZ,
+.theme-dark .pageWrapper-2PwDoS {
+    background: var(--background-primary);
+}
+
+/*Settings*/
+.sidebarRegion-1VBisG,
+.sidebarRegionScroller-FXiQOh {
+    justify-content: unset;
+    flex: unset
+}
+
+.contentColumn-1C7as6,
+.customColumn-2n-oKU,
+.hero-1aNo0v {
+    max-width: unset;
+}
+
+.accountProfileCard-lbN7n- {
+    max-width: 750px;
+}
+
+.notificationSettings-1U0JsJ {
+    max-width: 45%;
+}
+
+.theme-dark .paymentPane-ut5qKZ, .theme-dark .paginator-1eqD2g, .theme-dark .payment-2bOh4k, .theme-dark .codeRedemptionRedirect-3SBiCp {
+    background-color: var(--background-secondary);
+}

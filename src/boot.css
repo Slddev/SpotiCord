@@ -5,33 +5,37 @@
 
 /*Version System*/
 :root {
-  --theme-version: "0.1.2a ";
+  --theme-version: "0.1.3a ";
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
-    content: "v"var(--theme-version);
-}
-
-.metadata>.version span {
-    display: none;
-}
-
-.metadata>.version:after {
-    content: "v"var(--theme-version);
+  content: "v"var(--theme-version);
 }
 
 .info-1sUqUG:after {
-    content: "SpotiCord - "var(--theme-version);
-    top: 16px;
-    color: var(--text-muted);
-    position: relative;
+  content: "SpotiCord - "var(--theme-version);
+  top: 16px;
+  color: var(--text-muted);
+  position: relative;
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version {
-    font-size: 0;
+  font-size: 0;
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
-    font-size: 14px;
+  font-size: 14px;
 }
 
+.bd-switch input:checked+.bd-switch-body {
+  --switch-color: var(--background-accent);
+}
+
+.wordmarkWindows-2dq6rw:after {
+  content: "SpotiCord "var(--theme-version)" by Slddev";
+  color: var(--text-muted);
+  font-size: 12px;
+  padding-left: 10px;
+  position: relative;
+  bottom: 4px;
+}
