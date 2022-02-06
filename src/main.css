@@ -6,7 +6,9 @@
   --background-tertiary: #000;
   --background-floating: #282828;
   --background-accent: #1ed760;
-  --channeltextarea-background: #313131;
+  --channeltextarea-background: #fff;
+  --interactive-normal: #b3b3b3;
+  --interactive-hover: #fff;
   --deprecated-quickswitcher-input-background: #313131;
 }
 
@@ -21,10 +23,10 @@
   --background-tertiary: #000;
   --background-floating: #282828;
   --background-accent: #1ed760;
-  --channeltextarea-background: #313131;
+  --channeltextarea-background: #fff;
   --deprecated-quickswitcher-input-background: #313131;
-  --interactive-normal: #b9bbbe;
-  --interactive-hover: #dcddde;
+  --interactive-normal: #b3b3b3;
+  --interactive-hover: #fff;
   --interactive-active: #fff;
   --interactive-muted: #4f545c;
 }

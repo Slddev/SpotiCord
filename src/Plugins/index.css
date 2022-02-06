@@ -1,0 +1,35 @@
+/*Powercord-Spotify*/
+.spotify-extra-controls {
+    pointer-events: initial !important;
+    height: 32px !important;
+    opacity: 1 !important;
+}
+
+.spotify-seek {
+    margin-top: -12px !important;
+}
+
+.spotify-seek-elements {
+    opacity: 1 !important;
+    height: 12px !important;
+}
+
+.spotify-seek:not(.no-premium),
+.spotify-seek-bar {
+    height: 4px !important;
+}
+
+.spotify-seek-bar-cursor {
+    opacity: 1 !important;
+}
+
+.powercord-spotify {
+    background: #181818 !important;
+    bottom: 15px;
+    position: relative;
+}
+
+/*Discord Controls*/
+.container-6sXIoE {
+    margin-top: 18px;
+}
