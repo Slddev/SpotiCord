@@ -1,5 +1,6 @@
+![image](https://user-images.githubusercontent.com/74999267/152705020-6024139a-d42c-420d-b1d4-20ac19bf1cf5.png)
 <h1 align="center">SpotiCord</h1>
-Light-weight Spotify theme for Discord
+SpotiCord is a lightweight Discord theme replicating the look and feel of Spotify. Best used when listening to music in Spotify with either `powercord-spotify` or `Spotify Controls` plugins. 
 
 ## Installing
 
