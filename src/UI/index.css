@@ -29,7 +29,7 @@
 .panels-3wFtMD>.container-YkUktl {
     z-index: 99;
     position: fixed;
-    top: 3.5%;
+    top: 3%;
     height: 35px;
     width: 225px;
     right: 1%;
@@ -61,6 +61,14 @@
 .panels-3wFtMD>.wrapper-3Hk9OB>.container-1zzFcN {
     margin-top: -14px;
     background-color: #181818;
+}
+
+/*Activity Area*/
+.activityPanel-9icbyU {
+    position: fixed;
+    bottom: 90px;
+    background-color: #181818;
+    width: 225px;
 }
 
 /*Text Area*/
@@ -161,6 +169,10 @@
 /*Header*/
 .toolbar-3_r2xA {
     margin-right: 240px;
+}
+
+.title-31SJ6t {
+    z-index: 1;
 }
 
 /*Search*/
