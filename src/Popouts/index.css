@@ -1,12 +1,4 @@
 /*Modern User Popouts by JJ#0001*/
-.userPopout-2j1gM4 {
-    width: 400px !important;
-}
-
-.headerText-1-WmDq {
-    margin-left: 160px !important;
-}
-
 .avatar-2Vndt_.wrapper-1VLyxH {
     width: 128px !important;
     height: 128px !important;
@@ -55,6 +47,10 @@
 
 .rolesList-3uZoaa {
     margin-bottom: 2px;
+}
+
+.avatarPositionNormal-2jWoC2 {
+    top: 13px;
 }
 
 /*Colors*/
