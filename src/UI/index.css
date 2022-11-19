@@ -252,7 +252,7 @@
 }
 
 .accountProfileCard-lbN7n- {
-    max-width: 750px;
+    max-width: none;
 }
 
 .notificationSettings-1U0JsJ {
@@ -264,4 +264,8 @@
 .theme-dark .payment-2bOh4k,
 .theme-dark .codeRedemptionRedirect-3SBiCp {
     background-color: var(--background-secondary);
+}
+
+.bioTextArea-dDGOeC {
+    background-color: var(--channeltextarea-background);
 }
