@@ -55,6 +55,7 @@
     padding: 0px 60px;
     position: relative;
     top: 45%;
+    z-index: -1;
 }
 
 /*Call Buttons*/

@@ -1,3 +1,13 @@
+/*Terminal Spotify Controls*/
+#terminal-spotify-player {
+    margin-top: -20px;
+    background: #181818;
+}
+
+.terminal-spotify-progress-time {
+    top: 5px;
+}
+
 /*Powercord-Spotify*/
 .spotify-extra-controls {
     pointer-events: initial !important;
