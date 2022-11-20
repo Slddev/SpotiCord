@@ -110,7 +110,7 @@
 
 .channelTextArea-1FufC0 {
     top: 20px;
-    background-color: transparent;
+    background-color: var(--channeltextarea-background);
 }
 
 .wrapper-2SplAX {
@@ -148,7 +148,7 @@
 .replyBar-1oi75v,
 .threadSuggestionBar-3ExSyc,
 .attachedBars-2BCP3l {
-    background: transparent;
+    background: var(--channeltextarea-background);
 }
 
 .replyBar-1oi75v {

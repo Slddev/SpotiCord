@@ -11,6 +11,7 @@
   --interactive-hover: #fff;
   --deprecated-quickswitcher-input-background: #313131;
   --background-modifier-selected: hsla(0,0%,100%,.1);
+  --background-modifier-hover: hsla(0,0%,100%,.2);
 }
 
 /*Ditch Light Theme*/
@@ -31,4 +32,5 @@
   --interactive-active: #fff;
   --interactive-muted: #4f545c;
   --background-modifier-selected: hsla(0,0%,100%,.1);
+  --background-modifier-hover: hsla(0,0%,100%,.2);
 }
