@@ -1,10 +1,10 @@
-/*Terminal Spotify Controls*/
-#terminal-spotify-player {
+/*Voltage Spotify Controls*/
+#voltage-spotify-player {
     margin-top: -20px;
     background: #181818;
 }
 
-.terminal-spotify-progress-time {
+.voltage-spotify-progress-time {
     top: 5px!important;
 }
 

@@ -5,7 +5,7 @@
 
 /*Version System*/
 :root {
-  --theme-version: "0.4.1b ";
+  --theme-version: "0.4.1c ";
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
