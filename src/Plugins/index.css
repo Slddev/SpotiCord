@@ -8,6 +8,13 @@
     top: 5px!important;
 }
 
+/*Voltage Theme Text-area*/
+
+.voltage-textarea {
+    display: block;
+    background-color: var(--channeltextarea-background);
+}
+
 /*Powercord-Spotify*/
 .spotify-extra-controls {
     pointer-events: initial !important;
