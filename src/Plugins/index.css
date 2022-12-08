@@ -1,16 +1,16 @@
 /*Voltage Spotify Controls*/
-#insanity-spotify-player {
+#voltage-spotify-player {
     margin-top: -20px;
     background: #181818;
 }
 
-.insanity-spotify-progress-time {
+.voltage-spotify-progress-time {
     top: 5px!important;
 }
 
 /*Voltage Theme Text-area*/
 
-.insanity-textarea {
+.voltage-textarea {
     display: block;
     background-color: var(--channeltextarea-background);
 }
