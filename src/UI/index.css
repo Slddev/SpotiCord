@@ -93,7 +93,6 @@
     min-height: 90px;
     border-top: 1px solid #282828;
     margin: 0;
-    max-width: 1335px;
 }
 
 .scrollableContainer-15eg7h {
@@ -167,6 +166,11 @@
     background: linear-gradient(180deg, rgba(54, 57, 63, 0) 0, #181818);
 }
 
+.inlineCode-ERyvy_,
+.optionPill-2kmuZR {
+    color: #fff;
+}
+
 /*Header*/
 .toolbar-3_r2xA {
     margin-right: 240px;
@@ -236,6 +240,10 @@
 .theme-light .footer-31IekZ,
 .theme-dark .pageWrapper-2PwDoS {
     background: var(--background-primary);
+}
+
+.lookBlank-21BCro {
+    color: #fff;
 }
 
 /*Settings*/
