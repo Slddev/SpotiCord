@@ -65,3 +65,8 @@
 .theme-dark .footer-31IekZ {
     background-color: var(--background-secondary);
 }
+
+/*Fixes*/
+.textarea-_59yqs[aria-label="Note"] {
+    display: unset;
+}
