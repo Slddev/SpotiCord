@@ -99,7 +99,7 @@
     border-radius: 23px;
 }
 
-.editor-H2NA06, .input-2g-os5 {
+.editor-H2NA06, .input-2g-os5, .select-1Ia3hD, .wrapper-1b33hy {
     color: #000;
 }
 
@@ -247,16 +247,12 @@
 }
 
 /*Settings*/
-.sidebarRegion-1VBisG,
-.sidebarRegionScroller-FXiQOh {
-    justify-content: unset;
-    flex: unset
+.sidebarRegion-1VBisG {
+    flex: 0;
 }
 
-.contentColumn-1C7as6,
-.customColumn-2n-oKU,
-.hero-1aNo0v {
-    max-width: unset;
+.contentColumnDefault-3eyv5o {
+    margin: 0 auto;
 }
 
 .accountProfileCard-lbN7n- {
