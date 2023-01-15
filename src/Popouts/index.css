@@ -69,4 +69,5 @@
 /*Fixes*/
 .textarea-_59yqs[aria-label="Note"] {
     display: unset;
+    color: var(--text-normal);
 }
