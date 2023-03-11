@@ -99,7 +99,7 @@
     border-radius: 23px;
 }
 
-.editor-H2NA06, .input-2g-os5, .select-1Ia3hD, .wrapper-1b33hy {
+.editor-H2NA06, .input-2g-os5, .select-Zz0IcO, .wrapper-mJT04A {
     color: #000;
 }
 
@@ -236,12 +236,6 @@
 }
 
 /*Create A Server and Public Servers*/
-.theme-light .root-g14mjS,
-.theme-light .footer-31IekZ,
-.theme-dark .pageWrapper-2PwDoS {
-    background: var(--background-primary);
-}
-
 .lookBlank-21BCro {
     color: #fff;
 }

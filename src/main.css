@@ -14,6 +14,9 @@
   --background-modifier-selected: hsla(0,0%,100%,.1);
   --background-modifier-hover: hsla(0,0%,100%,.2);
   --background-modifier-active: hsla(0,0%,100%,.2);
+  --modal-background: #121212;
+  --modal-footer-background: #121212;
+  --home-background: #121212;
 }
 
 /*Ditch Light Theme*/
@@ -37,4 +40,7 @@
   --background-modifier-selected: hsla(0,0%,100%,.1);
   --background-modifier-hover: hsla(0,0%,100%,.2);
   --background-modifier-active: hsla(0,0%,100%,.2);
+  --modal-background: #121212;
+  --modal-footer-background: #121212;
+  --home-background: #121212;
 }
