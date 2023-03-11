@@ -1,6 +1,22 @@
 /*Fixes*/
 
-.peopleColumn-1wMU14 .avatar-2MSPKk.wrapper-1VLyxH {
+.peopleColumn-1wMU14 .avatar-2MSPKk .wrapper-3Un6-K {
+    transform: scale(1.8);
     margin-left: calc( 16px + var(--FG-avatar-margin-left))!important;
     margin-top: calc(var(--FG-avatar-margin-top) + var(--FG-cards-banner-height))!important;
+}
+
+.peopleColumn-1wMU14 .avatar-2MSPKk .wrapper-3Un6-K {
+    opacity: var(--FG-cards-avatar-opacity-normal);
+    transition: var(--FG-transition)
+}
+
+.peopleColumn-1wMU14 .peopleListItem-u6dGxF:hover .avatar-2MSPKk .wrapper-3Un6-K {
+    opacity: var(--FG-cards-avatar-opacity-hover);
+    transition: var(--FG-transition)
+}
+
+.peopleListItem-u6dGxF.active-2UF8Zh .avatar-2MSPKk .wrapper-3Un6-K {
+    opacity: var(--FG-cards-avatar-opacity-active) !important;
+    transition: var(--FG-transition)
 }
