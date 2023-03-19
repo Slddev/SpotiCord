@@ -1,0 +1,18 @@
+{
+    "id": "gq.sappy.SpotiCord",
+    "name": "SpotiCord",
+    "description": "Light-weight Spotify theme for Discord",
+    "author": {
+        "name": "Sappy",
+        "discordID": "741262207391629343",
+        "github": "Slddev"
+    },
+    "updater": {
+        "type": "github",
+        "id": "Slddev/SpotiCord"
+    },
+    "version": "0.5.2a",
+    "license": "MIT",
+    "type": "replugged-theme",
+    "main": "SpotiCord.theme.css"
+}
