@@ -2,21 +2,21 @@
 
 .peopleColumn-1wMU14 .userInfo-2WpsYG .wrapper-3Un6-K {
     transform: scale(1.8);
-    margin-left: calc( 16px + var(--FG-avatar-margin-left))!important;
-    margin-top: calc(var(--FG-avatar-margin-top) + var(--FG-cards-banner-height))!important;
+    margin-left: calc(16px + var(--FG-avatar-margin-left)) !important;
+    margin-top: calc(var(--FG-avatar-margin-top) + var(--FG-cards-banner-height)) !important;
 }
 
 .peopleColumn-1wMU14 .userInfo-2WpsYG .wrapper-3Un6-K {
     opacity: var(--FG-cards-avatar-opacity-normal);
-    transition: var(--FG-transition)
+    transition: var(--FG-transition);
 }
 
 .peopleColumn-1wMU14 .peopleListItem-u6dGxF:hover .userInfo-2WpsYG .wrapper-3Un6-K {
     opacity: var(--FG-cards-avatar-opacity-hover);
-    transition: var(--FG-transition)
+    transition: var(--FG-transition);
 }
 
 .peopleListItem-u6dGxF.active-2UF8Zh .userInfo-2WpsYG .wrapper-3Un6-K {
     opacity: var(--FG-cards-avatar-opacity-active) !important;
-    transition: var(--FG-transition)
+    transition: var(--FG-transition);
 }
