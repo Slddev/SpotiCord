@@ -11,6 +11,7 @@
 /*Voltage Theme Text-area*/
 .voltage-textarea {
     display: block !important;
+    color: var(--text-normal);
 }
 
 /*Vencord Theme Text-area*/
