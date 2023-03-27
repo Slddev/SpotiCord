@@ -9,9 +9,13 @@
 }
 
 /*Voltage Theme Text-area*/
-
 .voltage-textarea {
     display: block !important;
+}
+
+/*Vencord Theme Text-area*/
+.textarea-_59yqs[placeholder="Theme Links"] {
+    color: var(--text-normal);
 }
 
 /*Powercord-Spotify*/
