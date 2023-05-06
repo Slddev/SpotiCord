@@ -11,7 +11,7 @@
         "type": "github",
         "id": "Slddev/SpotiCord"
     },
-    "version": "0.5.4c",
+    "version": "0.5.4d",
     "license": "MIT",
     "type": "replugged-theme",
     "main": "SpotiCord.theme.css"
