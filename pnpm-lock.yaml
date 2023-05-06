@@ -8,14 +8,14 @@ devDependencies:
     specifier: ^2.8.3
     version: 2.8.3
   '@types/node':
-    specifier: ^18.11.15
-    version: 18.15.3
+    specifier: ^20.1.0
+    version: 20.1.0
   prettier:
-    specifier: ^2.8.1
-    version: 2.8.4
+    specifier: ^2.8.8
+    version: 2.8.8
   replugged:
-    specifier: ^4.2.1
-    version: 4.2.2(@codemirror/view@6.9.2)(@lezer/common@1.0.2)
+    specifier: ^4.2.6
+    version: 4.2.6(@codemirror/view@6.9.2)(@lezer/common@1.0.2)
 
 packages:
 
@@ -1331,7 +1331,7 @@ packages:
     requiresBuild: true
     dependencies:
       '@types/minimatch': 5.1.2
-      '@types/node': 18.15.3
+      '@types/node': 20.1.0
     dev: true
     optional: true
 
@@ -1346,6 +1346,10 @@ packages:
 
   /@types/node@18.15.3:
     resolution: {integrity: sha512-p6ua9zBxz5otCmbpb5D3U4B5Nanw6Pk3PPyX05xnxbB/fRv71N7CPmORg7uAD5P70T0xmx1pzAx/FUfa5X+3cw==}
+    dev: true
+
+  /@types/node@20.1.0:
+    resolution: {integrity: sha512-O+z53uwx64xY7D6roOi4+jApDGFg0qn6WHcxe5QeqjMaTezBO/mxdfFXIVAVVyNWKx84OmPB3L8kbVYOTeN34A==}
     dev: true
 
   /@types/parse-json@4.0.0:
@@ -2522,8 +2526,8 @@ packages:
       posthtml-render: 3.0.0
     dev: true
 
-  /prettier@2.8.4:
-    resolution: {integrity: sha512-vIS4Rlc2FNh0BySk3Wkd6xmwxB0FpOndW5fisM5H8hsZSxU2VWVB5CWIkIjWvrHjIhxk2g3bfMKM87zNTrZddw==}
+  /prettier@2.8.8:
+    resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
@@ -2588,9 +2592,9 @@ packages:
       rc: 1.2.8
     dev: true
 
-  /replugged@4.2.2(@codemirror/view@6.9.2)(@lezer/common@1.0.2):
-    resolution: {integrity: sha512-QBiAg+UEblcaCetS7ScyBtKqUtiBykMZTDKwpDhwl/GMksC1rmN6P0GDsVXRSQTOMx8DMYcF5QegsgYLhvvZaw==}
-    engines: {node: '>=14.0.0'}
+  /replugged@4.2.6(@codemirror/view@6.9.2)(@lezer/common@1.0.2):
+    resolution: {integrity: sha512-qMJJ/mcu5y84w2a7gRZff0iANuysH5fHqLHbaCbqn4jX4ElXAv34BgQyZGzxXOiMWmuEhZKHSI44R+mIwiWt+g==}
+    engines: {node: '>=18.0.0', pnpm: '>=8.0.0'}
     hasBin: true
     dependencies:
       '@codemirror/lang-css': 6.1.1(@codemirror/view@6.9.2)(@lezer/common@1.0.2)
