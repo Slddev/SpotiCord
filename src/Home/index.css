@@ -7,7 +7,7 @@
     background: var(--background-floating);
 }
 
-.privateChannels-oVe7HL {
+.privateChannels-oVe7HL, .scroller-WSmht3 {
     background: var(--background-primary);
 }
 
@@ -16,5 +16,5 @@
 }
 
 .interactive-26HRN_:active {
-    background: hsla(0,0%,100%,.1);
+    background: hsla(0, 0%, 100%, 0.1);
 }
