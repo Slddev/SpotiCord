@@ -7,8 +7,9 @@
     background: var(--background-floating);
 }
 
-.privateChannels-oVe7HL, .scroller-WSmht3 {
-    background: var(--background-primary);
+.privateChannels-oVe7HL,
+.scroller-WSmht3 {
+    background: var(--background-primary) !important;
 }
 
 .interactive-26HRN_:hover {

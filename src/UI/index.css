@@ -65,8 +65,9 @@
 }
 
 /*Channel List*/
-.sidebar-1tnWFu, .container-1NXEtd {
-    background: var(--background-primary);
+.sidebar-1tnWFu,
+.container-1NXEtd {
+    background: var(--background-primary) !important;
 }
 
 .wrapper-NhbLHG:hover .content-1gYQeQ {
