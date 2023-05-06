@@ -1,8 +1,20 @@
 /*Colors*/
 .peopleColumn-1wMU14 {
-    background-color: var(--background-primary);
+    background: linear-gradient(180deg, var(--sc-gradient-color), transparent 25%);
 }
 
 .theme-dark .root-1CAIjD {
-    background-color: var(--background-floating);
+    background: var(--background-floating);
+}
+
+.privateChannels-oVe7HL {
+    background: var(--background-primary);
+}
+
+.interactive-26HRN_:hover {
+    background: #1a1a1a;
+}
+
+.interactive-26HRN_:active {
+    background: hsla(0,0%,100%,.1);
 }

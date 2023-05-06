@@ -11,6 +11,11 @@
 @import url("https://crearts-community.github.io/Friends-Grid/clients/betterdiscord.css");
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css");
 
+/*SpotiCord Vars*/
+:root {
+  --sc-gradient-color: #1ed760;
+}
+
 /*RadialStatus*/
 :root {
   --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */

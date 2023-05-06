@@ -64,6 +64,19 @@
     background-color: #181818;
 }
 
+/*Channel List*/
+.container-1NXEtd {
+    background: var(--background-primary);
+}
+
+.wrapper-NhbLHG:hover .content-1gYQeQ {
+    background: #1a1a1a;
+}
+
+.wrapper-NhbLHG:active .content-1gYQeQ {
+    background: var(--background-primary);
+}
+
 /*Activity Area*/
 .activityPanel-9icbyU {
     position: fixed;

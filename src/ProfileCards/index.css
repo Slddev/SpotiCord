@@ -20,3 +20,55 @@
     opacity: var(--FG-cards-avatar-opacity-active) !important;
     transition: var(--FG-transition);
 }
+
+.content-yjf30S div[aria-hidden=true] {
+    display: none;
+}
+
+.peopleColumn-1wMU14 .peopleListItem-u6dGxF {
+    background: hsla(0,0%,100%,.1);
+    height: 64px !important;
+    min-height: unset !important;
+    transition: all .3s ease;
+}
+
+.peopleColumn-1wMU14 .peopleListItem-u6dGxF:hover {
+    background: hsla(0,0%,100%,.2);
+}
+
+.peopleColumn-1wMU14 .userInfo-2WpsYG::before {
+    display: none;
+}
+
+.peopleColumn-1wMU14 .userInfo-2WpsYG {
+    display: grid;
+    grid-template-columns: 64px 80%;
+    margin: 0;
+}
+
+.peopleColumn-1wMU14 .userInfo-2WpsYG .wrapper-3Un6-K {
+    display: block;
+    margin-left: 15px !important;
+    margin-top: 15px !important;
+    transform: scale(2.3);
+    border-radius: 0px !important;
+}
+
+.peopleColumn-1wMU14 .text-3j8t_e {
+    position: static;
+    margin-left: 16px;
+}
+
+.peopleColumn-1wMU14 .text-3j8t_e .discordTag-3HiQI9 {
+    flex-grow: 0.6;
+}
+
+.peopleColumn-1wMU14 .wrapper-3Un6-K img{
+    border-radius: 0px !important;
+    clip-path: none;
+    -webkit-clip-path: none;
+}
+
+#app-mount .peopleColumn-1wMU14 .wrapper-3Un6-K rect, .peopleColumn-1wMU14 .avatar-2MSPKk::before{
+    display: none;  
+}
