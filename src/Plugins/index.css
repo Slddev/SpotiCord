@@ -1,7 +1,7 @@
 /*Voltage Spotify Controls*/
 .vt-spotify-player {
     margin-top: -20px;
-    background: var(--background-secondary);
+    background: var(--background-secondary) !important;
 }
 
 .vt-spotify-progress-time {
