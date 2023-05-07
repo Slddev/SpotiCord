@@ -1,15 +1,15 @@
 /*Voltage Spotify Controls*/
-.voltage-spotify-player {
+.vt-spotify-player {
     margin-top: -20px;
-    background: #181818;
+    background: var(--background-secondary);
 }
 
-.voltage-spotify-progress-time {
+.vt-spotify-progress-time {
     top: 5px !important;
 }
 
 /*Voltage Theme Text-area*/
-.voltage-textarea {
+.vt-textarea {
     display: block !important;
     color: var(--text-normal) !important;
 }

@@ -6,8 +6,8 @@
     --background-tertiary: #000;
     --background-floating: #282828;
     --background-accent: #1ed760;
-    --channeltextarea-background: #fff;
-    --input-background: #fff;
+    --channeltextarea-background: #242424;
+    --input-background: #242424;
     --interactive-normal: #b3b3b3;
     --interactive-hover: #fff;
     --deprecated-quickswitcher-input-background: #313131;
@@ -17,6 +17,7 @@
     --modal-background: #121212;
     --modal-footer-background: #121212;
     --home-background: #121212;
+    --channel-icon: #b3b3b3;
 }
 
 /*Ditch Light Theme*/
@@ -30,8 +31,8 @@
     --background-tertiary: #000;
     --background-floating: #282828;
     --background-accent: #1ed760;
-    --channeltextarea-background: #fff;
-    --input-background: #fff;
+    --channeltextarea-background: #242424;
+    --input-background: #242424;
     --deprecated-quickswitcher-input-background: #313131;
     --interactive-normal: #b3b3b3;
     --interactive-hover: #fff;
@@ -43,4 +44,5 @@
     --modal-background: #121212;
     --modal-footer-background: #121212;
     --home-background: #121212;
+    --channel-icon: #b3b3b3;
 }

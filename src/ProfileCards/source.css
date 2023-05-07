@@ -532,13 +532,8 @@
     line-height: 22px;
     font-weight: 600;
 }
-.peopleColumn-1wMU14#pending-tab .text-3j8t_e {
-    margin-bottom: var(--FG-cards-margin-bottom);
-    position: absolute;
-    bottom: 0%;
-}
 .peopleColumn-1wMU14 .text-3j8t_e {
-    margin-left: var(--FG-text-margin-left);
+    margin-left: 16px;
 }
 .peopleColumn-1wMU14 .username-Qpc78p {
     color: var(--FG-cards-username-normal);

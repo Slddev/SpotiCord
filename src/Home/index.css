@@ -1,6 +1,19 @@
 /*Colors*/
-.peopleColumn-1wMU14 {
+.tabBody-2dgbAs {
+    border-radius: 8px;
+}
+
+.container-2cd8Mz {
     background: linear-gradient(180deg, var(--sc-gradient-color), transparent 25%);
+    border-radius: 8px;
+}
+
+.peopleColumn-1wMU14 {
+    background: transparent;
+}
+
+.nowPlayingColumn-1eCBCN, .nowPlayingColumn-1eCBCN .container-1oAagU {
+    border-radius: 8px;
 }
 
 .theme-dark .root-1CAIjD {
@@ -10,6 +23,10 @@
 .privateChannels-oVe7HL,
 .scroller-WSmht3 {
     background: var(--background-primary) !important;
+}
+
+.interactive-26HRN_ {
+    border-radius: 6px;
 }
 
 .interactive-26HRN_:hover {
