@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/74999267/152705020-6024139a-d42c-420d-b1d4-20ac19bf1cf5.png)
+![SpotiCord-Banner](https://github.com/Slddev/SpotiCord/assets/74999267/34f7cb25-bb66-4b68-a164-62decfdbc25d)
 <h1 align="center">SpotiCord</h1>
 SpotiCord is a lightweight Discord theme replicating the look and feel of Spotify. Best used when listening to music in Spotify.
 
