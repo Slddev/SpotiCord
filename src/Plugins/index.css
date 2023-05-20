@@ -20,7 +20,7 @@
 }
 
 /*Vencord Spotify Controls*/
-.vc-spotify-player {
+#vc-spotify-player {
     margin-top: -20px;
     background: var(--background-secondary) !important;
 }
