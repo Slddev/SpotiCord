@@ -19,6 +19,16 @@
     color: var(--text-normal);
 }
 
+/*Vencord Spotify Controls*/
+.vc-spotify-player {
+    margin-top: -20px;
+    background: var(--background-secondary) !important;
+}
+
+.vc-spotify-progress-time {
+    top: 5px !important;
+}
+
 /*Powercord-Spotify*/
 .spotify-extra-controls {
     pointer-events: initial !important;
