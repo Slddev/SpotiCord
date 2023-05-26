@@ -28,8 +28,8 @@
 
 .panels-3wFtMD > .container-YkUktl {
     z-index: 99;
-    position: fixed;
-    top: 3%;
+    position: absolute;
+    top: 0.5%;
     height: 35px;
     width: 225px;
     right: 1%;
