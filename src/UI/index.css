@@ -29,10 +29,10 @@
 .panels-3wFtMD > .container-YkUktl {
     z-index: 99;
     position: absolute;
-    top: 0.5%;
+    top: 5px;
     height: 35px;
     width: 225px;
-    right: 1%;
+    right: 5px;
     border-radius: 500px;
     background-color: rgba(0, 0, 0, 0.7);
     padding: 2px;
