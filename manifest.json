@@ -8,8 +8,8 @@
         "github": "Slddev"
     },
     "updater": {
-        "type": "github",
-        "id": "Slddev/SpotiCord"
+        "type": "store",
+        "id": "gq.sappy.SpotiCord"
     },
     "version": "0.5.6b",
     "license": "MIT",
