@@ -189,7 +189,7 @@
     background-color: var(--scrollbar-auto-track);
 }
 .info-1sUqUG .size12-oc4dx4:last-child::after {
-    content: "\a""Friends-Grid " var(--FA-version) !important;
+    content: "\a" "Friends-Grid " var(--FA-version) !important;
     text-transform: none;
     white-space: pre;
     -webkit-user-select: all;
