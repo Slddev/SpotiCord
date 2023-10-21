@@ -1,6 +1,6 @@
 {
   "name": "spoticord",
-  "version": "0.5.6c",
+  "version": "0.5.6d",
   "description": "Light-weight Spotify theme for Discord",
   "engines": {
     "node": ">=14.0.0"
