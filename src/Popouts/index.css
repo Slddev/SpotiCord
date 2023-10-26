@@ -7,12 +7,12 @@
     background-color: var(--background-accent);
 }
 
-.theme-dark .footer-IubaaS {
+.theme-dark .footer__89240 {
     background-color: var(--background-secondary);
 }
 
 /*Fixes*/
-.textarea-_59yqs[aria-label="Note"] {
+.textarea_c5a7a3[aria-label="Note"] {
     display: unset;
     color: var(--text-normal);
 }
