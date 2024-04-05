@@ -1,19 +1,19 @@
 /*Colors*/
-.tabBody_b3d268 {
+.tabBody_a90ea8 {
     border-radius: 8px;
 }
 
-.container__5c7e7 {
+.container_bd15da {
     background: linear-gradient(180deg, var(--sc-gradient-color), transparent 25%);
     border-radius: 8px;
 }
 
-.peopleColumn__51df3 {
+.peopleColumn__0c784 {
     background: transparent;
 }
 
-.nowPlayingColumn_f5023f,
-.nowPlayingColumn_f5023f .container__0a6a9 {
+.nowPlayingColumn_b025fe,
+.nowPlayingColumn_b025fe .container__3673d {
     border-radius: 8px;
 }
 
@@ -21,19 +21,19 @@
     background: var(--background-floating);
 }
 
-.privateChannels__93473,
-.scroller__4b984 {
+.privateChannels__9b518,
+.scroller__89969 {
     background: var(--background-primary) !important;
 }
 
-.interactive__776ee {
+.interactive__0786a {
     border-radius: 6px;
 }
 
-.interactive__776ee:hover {
+.interactive__0786a:hover {
     background: #1a1a1a;
 }
 
-.interactive__776ee:active {
+.interactive__0786a:active {
     background: hsla(0, 0%, 100%, 0.1);
 }
