@@ -1,20 +1,20 @@
 {
-    "id": "gq.sappy.SpotiCord",
-    "name": "SpotiCord",
-    "description": "Light-weight Spotify theme for Discord",
-    "image": "https://github.com/Slddev/SpotiCord/assets/74999267/34f7cb25-bb66-4b68-a164-62decfdbc25d",
-    "source": "https://github.com/Slddev/SpotiCord",
-    "author": {
-        "name": "Sappy",
-        "discordID": "741262207391629343",
-        "github": "Slddev"
-    },
-    "updater": {
-        "type": "store",
-        "id": "gq.sappy.SpotiCord"
-    },
-    "version": "0.5.8as",
-    "license": "MIT",
-    "type": "replugged-theme",
-    "main": "SpotiCord.theme.css"
+  "id": "gq.sappy.SpotiCord",
+  "name": "SpotiCord",
+  "description": "Light-weight Spotify theme for Discord",
+  "image": "https://github.com/Slddev/SpotiCord/assets/74999267/34f7cb25-bb66-4b68-a164-62decfdbc25d",
+  "source": "https://github.com/Slddev/SpotiCord",
+  "author": {
+    "name": "Sappy",
+    "discordID": "741262207391629343",
+    "github": "Slddev"
+  },
+  "updater": {
+    "type": "store",
+    "id": "gq.sappy.SpotiCord"
+  },
+  "version": "0.5.8a",
+  "license": "MIT",
+  "type": "replugged-theme",
+  "main": "SpotiCord.theme.css"
 }
