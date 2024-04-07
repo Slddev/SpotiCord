@@ -31,7 +31,7 @@
     --switch-color: var(--background-accent);
 }
 
-.wordmarkWindows__05c46:after {
+.wordmarkWindows_ffbc5e:after {
     content: "SpotiCord " var(--theme-version) " by Slddev";
     color: var(--text-muted);
     font-size: 12px;
