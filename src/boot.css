@@ -5,14 +5,14 @@
 
 /*Version System*/
 :root {
-    --theme-version: "0.5.8b ";
+    --theme-version: "0.5.9a ";
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
     content: "v" var(--theme-version);
 }
 
-.info__755e1:after {
+.info_c5a741:after {
     content: "SpotiCord - " var(--theme-version);
     top: 16px;
     color: var(--text-muted);
@@ -31,7 +31,7 @@
     --switch-color: var(--background-accent);
 }
 
-.wordmarkWindows_ffbc5e:after {
+.wordmarkWindows_a934d8:after {
     content: "SpotiCord " var(--theme-version) " by Slddev";
     color: var(--text-muted);
     font-size: 12px;
