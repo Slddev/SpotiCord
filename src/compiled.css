@@ -144,7 +144,7 @@
 /*ANCHOR - boot.css*/
 /*Version System*/
 :root {
-    --theme-version: "0.5.9a ";
+    --theme-version: "0.5.9b ";
 }
 
 [id^="SpotiCord"] .bd-addon-header .bd-version:before {
@@ -1092,7 +1092,7 @@
 }
 
 .members_cbd271 {
-    height: 90.15%;
+    height: calc(100% - 90px);
     background: var(--background-primary);
     border-bottom: 1px #282828 solid;
 }

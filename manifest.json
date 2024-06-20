@@ -13,7 +13,7 @@
     "type": "store",
     "id": "gq.sappy.SpotiCord"
   },
-  "version": "0.5.9a",
+  "version": "0.5.9b",
   "license": "MIT",
   "type": "replugged-theme",
   "main": "src/compiled.css"

@@ -104,7 +104,7 @@
 }
 
 .members_cbd271 {
-    height: 90.15%;
+    height: calc(100% - 90px);
     background: var(--background-primary);
     border-bottom: 1px #282828 solid;
 }
