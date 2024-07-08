@@ -380,8 +380,8 @@
 
 .peopleColumn_c2739c .wrapper_c51b4e img {
     border-radius: 0px !important;
-    clip-path: none !important;
     -webkit-clip-path: none !important;
+    clip-path: none !important;
 }
 
 #app-mount .peopleColumn_c2739c .wrapper_c51b4e rect,
