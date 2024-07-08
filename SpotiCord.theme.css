@@ -5,6 +5,8 @@
  * @version AutoUpdating
  * @description Light-weight Spotify theme for Discord
  * @source https://github.com/Slddev/SpotiCord
+ * @website https://sappy.eu.org
+ * @donate https://buymeacoffee.com/slddev
 */
 
 @import url("https://slddev.github.io/SpotiCord/src/boot.css");
@@ -13,131 +15,132 @@
 
 /*SpotiCord Vars*/
 :root {
-  --sc-gradient-color: #1ed760;
+    --sc-gradient-color: #1ed760;
 }
 
 /*Friends-Grid*/
 :root {
-  --FA-version: "v1.0.10 (SpotiCord Version)";
+    --FA-version: "v1.0.10 (SpotiCord Version)";
 
-  --FG-row: 1fr 1fr 1fr;
+    --FG-row: 1fr 1fr 1fr;
 
-  --FG-search-radius: 8px;
+    --FG-search-radius: 8px;
 
-  --FG-cards-radius: 8px;
-  --FG-cards-height: 180px;
-  --FG-cards-banner-background: var(--brand-experiment);
-  --FG-cards-margin-bottom: 26px;
-  --FG-cards-banner-height: 20px;
-  --FG-cards-border-width: 1px;
+    --FG-cards-radius: 8px;
+    --FG-cards-height: 180px;
+    --FG-cards-banner-background: var(--brand-experiment);
+    --FG-cards-margin-bottom: 26px;
+    --FG-cards-banner-height: 20px;
+    --FG-cards-border-width: 1px;
 
-  --FG-avatar-margin-top: 46px;
-  --FG-avatar-margin-left: 20px;
-  --FG-text-margin-left: 20px;
+    --FG-avatar-margin-top: 46px;
+    --FG-avatar-margin-left: 20px;
+    --FG-text-margin-left: 20px;
 
-  --FG-cards-banner-opacity-normal: 1.0;
-  --FG-cards-banner-opacity-hover: 1.0;
-  --FG-cards-banner-opacity-active: 1.0;
+    --FG-cards-banner-opacity-normal: 1;
+    --FG-cards-banner-opacity-hover: 1;
+    --FG-cards-banner-opacity-active: 1;
 
-  --FG-cards-avatar-opacity-normal: 1.0;
-  --FG-cards-avatar-opacity-hover: 1.0;
-  --FG-cards-avatar-opacity-active: 1.0;
+    --FG-cards-avatar-opacity-normal: 1;
+    --FG-cards-avatar-opacity-hover: 1;
+    --FG-cards-avatar-opacity-active: 1;
 
-  --FG-cards-username-opacity-normal: 1.0;
-  --FG-cards-username-opacity-hover: 1.0;
-  --FG-cards-username-opacity-active: 1.0;
+    --FG-cards-username-opacity-normal: 1;
+    --FG-cards-username-opacity-hover: 1;
+    --FG-cards-username-opacity-active: 1;
 
-  --FG-cards-discriminator-opacity-normal: 1.0;
-  --FG-cards-discriminator-opacity-hover: 1.0;
-  --FG-cards-discriminator-opacity-active: 1.0;
+    --FG-cards-discriminator-opacity-normal: 1;
+    --FG-cards-discriminator-opacity-hover: 1;
+    --FG-cards-discriminator-opacity-active: 1;
 
-  --FG-cards-status-opacity-normal: 1.0;
-  --FG-cards-status-opacity-hover: 1.0;
-  --FG-cards-status-opacity-active: 1.0;
+    --FG-cards-status-opacity-normal: 1;
+    --FG-cards-status-opacity-hover: 1;
+    --FG-cards-status-opacity-active: 1;
 
-  --FG-cards-button-opacity-normal: 0.0;
-  --FG-cards-button-opacity-hover: 1.0;
-  --FG-cards-button-opacity-active: 0.0;
+    --FG-cards-button-opacity-normal: 0;
+    --FG-cards-button-opacity-hover: 1;
+    --FG-cards-button-opacity-active: 0;
 
-  --FG-mutal-guilds-normal: 0.0;
-  --FG-mutal-guilds-hover: 1.0;
-  --FG-mutal-guilds-active: 1.0;
+    --FG-mutal-guilds-normal: 0;
+    --FG-mutal-guilds-hover: 1;
+    --FG-mutal-guilds-active: 1;
 
-  --FG-avatar-shape: 50%;
+    --FG-avatar-shape: 50%;
 
-  --FG-transition: all 0.4s ease;
+    --FG-transition: all 0.4s ease;
 
-  --user-accent-color: var(--FG-cards-banner-background);
+    --user-accent-color: var(--FG-cards-banner-background);
 }
 
 .theme-dark {
-  --FG-search-background: var(--background-tertiary);
+    --FG-search-background: var(--background-tertiary);
 
-  --FG-cards-background-normal: var(--background-secondary);
-  --FG-cards-background-hover: var(--activity-card-background);
+    --FG-cards-background-normal: var(--background-secondary);
+    --FG-cards-background-hover: var(--activity-card-background);
 
-  --FG-cards-background-active: var(--activity-card-background);
+    --FG-cards-background-active: var(--activity-card-background);
 
-  --FG-cards-border-color-normal: var(--background-modifier-accent);
-  --FG-cards-border-color-hover: var(--background-modifier-accent);
+    --FG-cards-border-color-normal: var(--background-modifier-accent);
+    --FG-cards-border-color-hover: var(--background-modifier-accent);
 
-  --FG-cards-username-normal: var(--header-primary);
-  --FG-cards-username-hover: var(--header-primary);
-  --FG-cards-discriminator-normal: var(--header-secondary);
-  --FG-cards-discriminator-hover: var(--header-secondary);
-  --FG-cards-status-normal: var(--header-secondary);
-  --FG-cards-status-hover: var(--header-secondary);
+    --FG-cards-username-normal: var(--header-primary);
+    --FG-cards-username-hover: var(--header-primary);
+    --FG-cards-discriminator-normal: var(--header-secondary);
+    --FG-cards-discriminator-hover: var(--header-secondary);
+    --FG-cards-status-normal: var(--header-secondary);
+    --FG-cards-status-hover: var(--header-secondary);
 
-  --FG-cards-button-icon-normal: var(--interactive-active);
-  --FG-cards-button-icon-hover: var(--activity-card-background);
-  --FG-cards-button-background-normal: rgba(0, 0, 0, 0.3);
-  --FG-cards-button-background-hover: rgba(0, 0, 0, 0.6);
+    --FG-cards-button-icon-normal: var(--interactive-active);
+    --FG-cards-button-icon-hover: var(--activity-card-background);
+    --FG-cards-button-background-normal: rgba(0, 0, 0, 0.3);
+    --FG-cards-button-background-hover: rgba(0, 0, 0, 0.6);
 }
 
-.theme-light  {
-  --FG-search-background: var(--background-tertiary);
+.theme-light {
+    --FG-search-background: var(--background-tertiary);
 
-  --FG-cards-background-normal: var(--background-secondary);
-  --FG-cards-background-hover: var(--activity-card-background);
+    --FG-cards-background-normal: var(--background-secondary);
+    --FG-cards-background-hover: var(--activity-card-background);
 
-  --FG-cards-background-active: var(--activity-card-background);
+    --FG-cards-background-active: var(--activity-card-background);
 
-  --FG-cards-border-color-normal: var(--background-modifier-accent);
-  --FG-cards-border-color-hover: var(--background-modifier-accent);
+    --FG-cards-border-color-normal: var(--background-modifier-accent);
+    --FG-cards-border-color-hover: var(--background-modifier-accent);
 
-  --FG-cards-username-normal: var(--header-primary);
-  --FG-cards-username-hover: var(--header-primary);
-  --FG-cards-discriminator-normal: var(--header-secondary);
-  --FG-cards-discriminator-hover: var(--header-secondary);
-  --FG-cards-status-normal: var(--header-secondary);
-  --FG-cards-status-hover: var(--header-secondary);
+    --FG-cards-username-normal: var(--header-primary);
+    --FG-cards-username-hover: var(--header-primary);
+    --FG-cards-discriminator-normal: var(--header-secondary);
+    --FG-cards-discriminator-hover: var(--header-secondary);
+    --FG-cards-status-normal: var(--header-secondary);
+    --FG-cards-status-hover: var(--header-secondary);
 
-  --FG-cards-button-icon-normal: var(--interactive-active);
-  --FG-cards-button-icon-hover: var(--activity-card-background);
-  --FG-cards-button-background-normal: rgba(255, 255, 255, 0.3);
-  --FG-cards-button-background-hover: rgba(255, 255, 255, 0.6);
+    --FG-cards-button-icon-normal: var(--interactive-active);
+    --FG-cards-button-icon-hover: var(--activity-card-background);
+    --FG-cards-button-background-normal: rgba(255, 255, 255, 0.3);
+    --FG-cards-button-background-hover: rgba(255, 255, 255, 0.6);
 }
-
 
 /*RadialStatus*/
 :root {
-  --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
-  --rs-medium-spacing: 3px; /* Gap between avatar and status for User popout | MUST end in px */
-  --rs-large-spacing: 4px; /* Gap between avatar and status for User profiles | MUST end in px */
+    --rs-small-spacing: 2px; /* Gap between avatar and status for members list/dms | MUST end in px */
+    --rs-medium-spacing: 3px; /* Gap between avatar and status for User popout | MUST end in px */
+    --rs-large-spacing: 4px; /* Gap between avatar and status for User profiles | MUST end in px */
 
-  --rs-small-width: 2px; /* Thickness of status border for members list/dms | MUST end in px */
-  --rs-medium-width: 3px; /* Thickness of status border for User popout | MUST end in px */
-  --rs-large-width: 4px; /* Thickness of status border for User profile | MUST end in px */
+    --rs-small-width: 2px; /* Thickness of status border for members list/dms | MUST end in px */
+    --rs-medium-width: 3px; /* Thickness of status border for User popout | MUST end in px */
+    --rs-large-width: 4px; /* Thickness of status border for User profile | MUST end in px */
 
-  --rs-avatar-shape: 50%; /* 50% for round - 0% for square */
+    --rs-avatar-shape: 50%; /* 50% for round - 0% for square */
 
-  --rs-online-color: #43b581; /* Colour for online status */
-  --rs-idle-color: #faa61a; /* Colour for idle status */
-  --rs-dnd-color: #f04747; /* Colour for dnd status */
-  --rs-offline-color: #636b75; /* Colour for offline status */
-  --rs-streaming-color: #643da7; /* Colour for streaming status */
-  --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
-  --rs-phone-color: var(--rs-online-color); /* Colour of the ring and phone icon when a user is on their phone |  */
+    --rs-online-color: #43b581; /* Colour for online status */
+    --rs-idle-color: #faa61a; /* Colour for idle status */
+    --rs-dnd-color: #f04747; /* Colour for dnd status */
+    --rs-offline-color: #636b75; /* Colour for offline status */
+    --rs-streaming-color: #643da7; /* Colour for streaming status */
+    --rs-invisible-color: #747f8d; /* Colour for invisible status - Note: this will only show for your own invisibility */
+    --rs-phone-color: var(
+        --rs-online-color
+    ); /* Colour of the ring and phone icon when a user is on their phone |  */
 
-  --rs-phone-visible: none; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
+    --rs-phone-visible: none; /* Visibility of the phone icon next to a users avatar. | block = visible | none = hidden */
 }
