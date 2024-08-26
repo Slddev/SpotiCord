@@ -333,6 +333,19 @@
     background-color: var(--background-secondary);
 }
 
+/*Activities Button Popout*/
+.contentWrapper_f7506e {
+    background: var(--background-primary);
+}
+
+.container_e5da8b {
+    background: var(--background-secondary);
+}
+
+.container_fb1469 {
+    background: var(--background-secondary);
+}
+
 /*Fixes*/
 .textarea_dde0a8[aria-label="Note"] {
     display: unset;
