@@ -1146,6 +1146,12 @@
     border-radius: 500px !important;
 }
 
+.channelAppLauncher_df39bd {
+    margin-right: var(--spacing-16);
+    margin-bottom: 24px;
+    top: 20px;
+}
+
 .wrapper_faf5ab {
     margin-top: 14px;
 }
