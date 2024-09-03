@@ -18,7 +18,7 @@
   "author": "Slddev",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^3.3.2",
-    "replugged": "^4.7.13"
+    "prettier": "^3.3.3",
+    "replugged": "^4.8.1"
   }
 }
