@@ -1,39 +1,39 @@
 /*Colors*/
-.tabBody_c2739c {
+.tabBody__133bf {
     border-radius: 8px;
 }
 
-.container_c2739c {
+.container__133bf {
     background: linear-gradient(180deg, var(--sc-gradient-color), transparent 25%);
     border-radius: 8px;
 }
 
-.peopleColumn_c2739c {
+.peopleColumn__133bf {
     background: transparent;
 }
 
-.nowPlayingColumn_c2739c,
-.nowPlayingColumn_c2739c .container_bf550a {
+.nowPlayingColumn__133bf,
+.nowPlayingColumn__133bf .container__7d20c {
     border-radius: 8px;
 }
 
-.theme-dark .root_f9a4c9 {
+.theme-dark .root__49fc1 {
     background: var(--background-floating);
 }
 
-.privateChannels_f0963d,
-.scroller_c47fa9 {
+.privateChannels__35e86,
+.scroller__99e7c {
     background: var(--background-primary) !important;
 }
 
-.interactive_f5eb4b {
+.interactive_bf202d {
     border-radius: 6px;
 }
 
-.interactive_f5eb4b:hover {
+.interactive_bf202d:hover {
     background: #1a1a1a;
 }
 
-.interactive_f5eb4b:active {
+.interactive_bf202d:active {
     background: hsla(0, 0%, 100%, 0.1);
 }
